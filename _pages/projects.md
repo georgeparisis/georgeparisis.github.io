@@ -10,7 +10,7 @@ nav: true
 
 **2020 - 2024: *Effective and efficient operation, management and monitoring of large-scale networks*, funded by Moogsoft and the School of Engineering and Informatics (£264,000).**
 <br>
-This project is in collaboration with Prof Berthouze (as co-PI). Moogsoft and the School of Engineering and Informatics will fund five PhD studentships in the broader research areas of large-scale network management, monitoring and operation. These include the design of machine learning and data science approaches for identifying and preventing network and service outages, and the development of machine-learned network protocols.
+This project is in collaboration with Prof Berthouze (as co-PI) and will fund PhD studentships in the broader research areas of large-scale network management, monitoring and operation. These include the design of machine learning and data science approaches for identifying and preventing network and service outages, and the development of machine-learned network protocols.
 
 **2019 - 2020: *Reinforcement learning in next generation data transport mechanisms*, funded by Amazon ($27,200 in AWS credits).**
 <br>
@@ -18,7 +18,7 @@ This project is about the development of computer-generated, machine-learned con
 
 **2019 - 2021: *Efficient and scalable computation of metrics for logical and physical IT infrastructure networks*, funded by [InnovateUK KTP and Moogsoft](https://info.ktponline.org.uk/action/details/partnership.aspx?id=10949){:target="_blank"} (£276,803).**
 <br>
-This project is in collaboration with Moogsoft and is co-funded by InnovateUK and Moogsoft. The project aims at the design and implementation of parallel and distributed algorithms for computing graph metrics and context-specific approximations for large scale computer networks. 
+This project is in collaboration with Prof Berthouze (as co-PI) and aims at the design and implementation of distributed algorithms for computing graph metrics and context-specific approximations for large scale computer networks. 
 
 **2015 - 2016: *Developing a simulation framework for data transport protocols in data centre networks*, funded by the [Sussex Research Development Fund](http://www.sussex.ac.uk/staff/research/sussexresearch/rdf/rdfawarded){:target="_blank"} (£10,000).**
 <br> This project built on existing, community-driven work on packet-level network simulations, in order to develop a platform for experimenting with network protocols in simulated data centre topologies.
