@@ -13,7 +13,7 @@ profile:
     <p>University of Sussex</p>
     <p>BN1 9RH, UK</p>
 
-news: true
+news: false
 social: true
 ---
 
