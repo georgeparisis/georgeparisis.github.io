@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Reader in Computer Science. Head of the <a href="https://www.w3schools.com" target="_blank">packets@sussex</a> group.
+description: Reader in Computer Science. Head of the <a href="https://www.w3schools.com" target="_blank">packets@sussex</a> lab.
 
 profile:
   align: right
