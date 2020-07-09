@@ -1,0 +1,1 @@
+George Parisis' webpage. Build with Jekyll. Based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
