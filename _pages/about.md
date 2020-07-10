@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Reader in Computer Science. Head of the <a href="https://www.w3schools.com" target="_blank">packets@sussex</a> lab.
+description: Reader in Computer Science. Head of the <a href="https://packets.github.io" target="_blank">packets@sussex</a> lab.
 
 profile:
   align: right
@@ -17,7 +17,7 @@ news: false
 social: true
 ---
 
-I was born in August 1981 in Athens, Greece, and I grew up in a small town called [Nafplio](https://en.wikipedia.org/wiki/Nafplio){:target="_blank"}. I received my Ph.D from the Department of Informatics, Athens University of Economics and Business, in June 2009. 
+I was born in Athens and grew up in a small town called [Nafplio](https://en.wikipedia.org/wiki/Nafplio){:target="_blank"}. I received my Ph.D from the Department of Informatics, Athens University of Economics and Business, in June 2009. Before joining Sussex as a Lecturer in 2013, I was a Research Associate at the Computer Laboratory, University of Cambridge.
 
 I am currently a Reader in Computer Science at the School of Engineering and Informatics, University of Sussex. My University profile is [here](https://profiles.sussex.ac.uk/p334868-george-parisis){:target="_blank"}.
 
