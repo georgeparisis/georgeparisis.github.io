@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Reader in Computer Science. Head of the <a href="https://packets.github.io" target="_blank">packets@sussex</a> lab.
+description: Reader in Computer Science. Director of <a href="https://packets-sussex.github.io" target="_blank">packets@sussex</a>.
 
 profile:
   align: right
