@@ -23,7 +23,7 @@ I am currently a Reader in Computer Science at the School of Engineering and Inf
 
 My research is in the following research areas:
 
-* protocols for next-generation networks
+* network protocol design
 * network management 
 * network verification
 * opportunistic networks
