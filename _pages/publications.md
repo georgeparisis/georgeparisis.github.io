@@ -17,7 +17,7 @@ nav: true
 <br>
 [J9] A. Rajaei, D. Chalmers, I. Wakeman, and G. Parisis, “Efficient Geocasting in Opportunistic Networks”, in *Computer Communications, vol. 127*, 2018.
 <br>
-[J8] P. Tee, I. Wakeman, G. Parisis and Jonathan Dawes, Istvan Kiss, “Constraints and entropy in a model of network evolution”, in *European Physical Journal B, 90 (11) 226*, 2017.
+[J8] P. Tee, I. Wakeman, G. Parisis and J. Dawes, I. Kiss, “Constraints and entropy in a model of network evolution”, in *European Physical Journal B, 90 (11) 226*, 2017.
 <br>
 [J7] P. Tee, G. Parisis and I. Wakeman, "Vertex Entropy as a Critical Node Measure in Network Monitoring", in *IEEE Transactions on Network and Service Management, vol. 14, no. 3*, 2017.
 <br>
@@ -76,7 +76,7 @@ nav: true
 <br>
 [C9] D. Syrivelis, G. Parisis, D. Trossen, P. Flegkas, V. Sourlas, T. Korakis and L. Tassiulas, "Pursuing a Software-Defined Information-Centric Network", In Proceedings of the *European Workshop on Software Defined Networking (EWSDN)*, 2012. 
 <br>
-[C8] G. Parisis, B. Tagger, D. Trossen, D. Syrivelis, P. Flegkas, L. Tassiulas, C. Tsilopoulos and George Xylomenos, "Demonstrating an Information-Centric Network in an International Testbed", In Proceedings of *TridentCom* 2012.
+[C8] G. Parisis, B. Tagger, D. Trossen, D. Syrivelis, P. Flegkas, L. Tassiulas, C. Tsilopoulos and G. Xylomenos, "Demonstrating an Information-Centric Network in an International Testbed", In Proceedings of *TridentCom* 2012.
 <br>
 [C7] D. Trossen, X. Vasilakos, P. Flegkas, V. Sourlas and G. Parisis, "Mobility Work Re-Visited Not Considered Harmful", In Proceedings of *ICUMT*, 2011.
 <br>
