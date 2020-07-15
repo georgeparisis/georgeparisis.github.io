@@ -4,14 +4,13 @@
 
 title: George Parisis
 email: G.Parisis@sussex.ac.uk
-description: >
-  #Based on [*folio](https://github.com/bogoli/-folio) design.
+description: George Parisis' personal website
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 url:
-baseurl: 
+baseurl:
 last_updated: true
 
 # -----------------------------------------------------------------------------
@@ -75,7 +74,7 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  
+
 news_limit: 3
 
 # -----------------------------------------------------------------------------
