@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Reader in Computer Science. Director of <a href="https://packets-sussex.github.io" target="_blank">packets@sussex</a>.
+description: Reader in Computer Science. Director of <a href="https://packets-lab.github.io/" target="_blank">packets</a> research lab.
 
 profile:
   align: right
@@ -24,7 +24,7 @@ I am currently a Reader in Computer Science at the School of Engineering and Inf
 My research is in the following research areas:
 
 * network protocol design
-* network management 
+* network management
 * network verification
 * opportunistic networks
 * information-centric networks
