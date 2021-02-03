@@ -9,11 +9,13 @@ nav: true
 
 
 #### Journal papers
+[J13] M. Alasmar, R. Clegg, N. Zakhleniuk and G. Parisis, "Internet Traffic Volumes Are Not Gaussian -- They Are Log-Normal: An 18-Year Longitudinal Study With Implications for Modelling and Prediction", in *IEEE/ACM Transactions on Networking*, 2021 (accepted).
+<br>
 [J12] A. Messager, G. Parisis, I. Z. Kiss, R. Harper, P. Tee and L. Berthouze, "Inferring Functional Connectivity from Time-series of Events in Large Scale Network Deployments", in *IEEE Transactions on Network and Service Management, vol. 16, no. 3*, 2019.
 <br>
 [J11] M. Kheirkhah, I. Wakeman and G. Parisis, "Multipath Transport and Packet Spraying for Efficient Data Delivery in Data Centres", in *Computer Networks, vol. 162*, 2019.
 <br>
-[J10] P. Tee, G. Parisis, L. Berthouze and I. Wakeman, "Relating Vertex and Global Graph Entropy in Randomly Generated Graphs", in *Entropy 2018, 20(7)*, 481. 
+[J10] P. Tee, G. Parisis, L. Berthouze and I. Wakeman, "Relating Vertex and Global Graph Entropy in Randomly Generated Graphs", in *Entropy 2018, 20(7)*, 481.
 <br>
 [J9] A. Rajaei, D. Chalmers, I. Wakeman, and G. Parisis, “Efficient Geocasting in Opportunistic Networks”, in *Computer Communications, vol. 127*, 2018.
 <br>
@@ -23,15 +25,15 @@ nav: true
 <br>
 [J6] G. Parisis, V. Sourlas, K.V. Katsaros, W.K. Chai, G. Pavlou, and I. Wakeman, “Efficient content delivery through fountain coding in opportunistic information-centric networks”, in *Computer Communications, vol. 100*, 2017.
 <br>
-[J5] G. Parisis and D. Trossen, "Filling the gaps of unused capacity through a fountain coded dissemination of information", in *SIGMOBILE Mobile Computer Communnications Review 18, 1,* 2014. 
+[J5] G. Parisis and D. Trossen, "Filling the gaps of unused capacity through a fountain coded dissemination of information", in *SIGMOBILE Mobile Computer Communnications Review 18, 1,* 2014.
 <br>
 [J4] B. Tagger, D. Trossen, A. Kostopoulos, S. Porter and G. Parisis, "Realising an application environment for information-centric networking, in *Computer Networks, vol. 57*, Issue 16, 2013.
 <br>
 [J3] G. Parisis, D. Trossen and H. Asaeda, "A Node Design and a Framework for Development and Experimentation for an Information-Centric Network", in *IEICE Transactions on Communications, vol. E96-B, Issue 7*, 2013.
 <br>
-[J2] D. Trossen and G. Parisis, "Designing and Realizing an Information-Centric Internet", in *IEEE Communications Magazine, vol. 50, Issue 7*, 2012. 
+[J2] D. Trossen and G. Parisis, "Designing and Realizing an Information-Centric Internet", in *IEEE Communications Magazine, vol. 50, Issue 7*, 2012.
 <br>
-[J1] A. Kousaridas, G. Parisis, and T. Apostolopoulos, "An open financial services architecture based on the use of intelligent mobile devices", in *Electronic Commerce Research Applications, 7 (2)*, 2008. 
+[J1] A. Kousaridas, G. Parisis, and T. Apostolopoulos, "An open financial services architecture based on the use of intelligent mobile devices", in *Electronic Commerce Research Applications, 7 (2)*, 2008.
 
 #### Conference and Workshop Papers
 [C29] V. Klimis, G. Parisis and B. Reus, "Model Checking Software-Defined Networks with Flow Entries that Time Out", In Proceedings of *Formal Methods in Computer-Aided Design (FMCAD)*, 2020.
@@ -74,7 +76,7 @@ nav: true
 <br>
 [C10] P. Flegkas, V. Sourlas, G. Parisis and D. Trossen, "Storage Replication in Information-Centric Networking", In Proceedings of the *International Conference on Computing, Networking and Communications*, 2013.
 <br>
-[C9] D. Syrivelis, G. Parisis, D. Trossen, P. Flegkas, V. Sourlas, T. Korakis and L. Tassiulas, "Pursuing a Software-Defined Information-Centric Network", In Proceedings of the *European Workshop on Software Defined Networking (EWSDN)*, 2012. 
+[C9] D. Syrivelis, G. Parisis, D. Trossen, P. Flegkas, V. Sourlas, T. Korakis and L. Tassiulas, "Pursuing a Software-Defined Information-Centric Network", In Proceedings of the *European Workshop on Software Defined Networking (EWSDN)*, 2012.
 <br>
 [C8] G. Parisis, B. Tagger, D. Trossen, D. Syrivelis, P. Flegkas, L. Tassiulas, C. Tsilopoulos and G. Xylomenos, "Demonstrating an Information-Centric Network in an International Testbed", In Proceedings of *TridentCom* 2012.
 <br>
@@ -90,4 +92,4 @@ nav: true
 <br>
 [C2] G. Parisis, S. Arkoulis and T. Apostolopoulos, "An Open Architecture for Monitoring and Measuring QoS Indicators in Wireless Community Networks", In Proceedings of the *Next Generation Internet Networks (NGI)*, 2008.
 <br>
-[C1] A. Kousaridas, G. Parisis and T. Apostolopoulos. "Mobile Financial Services: A scenario-driven requirements' analysis", In Proceedings of *WEBIST*, 2007. 
+[C1] A. Kousaridas, G. Parisis and T. Apostolopoulos. "Mobile Financial Services: A scenario-driven requirements' analysis", In Proceedings of *WEBIST*, 2007.
