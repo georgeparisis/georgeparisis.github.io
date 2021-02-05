@@ -8,9 +8,10 @@ nav: true
 
 ##### School of Engineering and Informatics, University of Sussex
 
-2013 - present: Computer Networks ([G5115](https://www.sussex.ac.uk/modules/2019/G5115-computer-networks){:target="_blank"})
+2021 - present: Operating Systems ([G6059](http://www.sussex.ac.uk/ei/internal/coursesandmodules/informatics/modules/2020/84525){:target="_blank"})
 <br>
-<!--2021 - present: Operating Systems ([G6059](https://www.sussex.ac.uk/modules/2019/G6059-operating-systems){:target="_blank"}) <br> -->
+2013 - present: Computer Networks ([G5115](http://www.sussex.ac.uk/ei/internal/coursesandmodules/informatics/modules/2020/81736){:target="_blank"})
+<br>
 2013 - present: Topics in Computer Science ([948G5](https://www.sussex.ac.uk/study/modules/undergraduate/2020/948G5-topics-in-computer-science){:target="_blank"})
 <br>
 2013 - 2020: Web Applications and Services ([G6060](https://www.sussex.ac.uk/modules/2019/G6060-web-applications-and-services){:target="_blank"}, [944G5](https://www.sussex.ac.uk/study/modules/undergraduate/2019/944G5-web-applications-and-services){:target="_blank"})
