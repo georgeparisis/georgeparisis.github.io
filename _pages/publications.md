@@ -36,6 +36,8 @@ nav: true
 [J1] A. Kousaridas, G. Parisis, and T. Apostolopoulos, "An open financial services architecture based on the use of intelligent mobile devices", in *Electronic Commerce Research Applications, 7 (2)*, 2008.
 
 #### Conference and Workshop Papers
+[C30] A. Ibraheem, Z. Sheng, G. Parisis, D. Tian, "Neural Network based Partial Tomography for In-Vehicle Network Monitoring", In Proceedings of *IEEE ICC 2021 Workshop on Time-sensitive and Deterministic Networking*, 2021.
+<br>
 [C29] V. Klimis, G. Parisis and B. Reus, "Model Checking Software-Defined Networks with Flow Entries that Time Out", In Proceedings of *Formal Methods in Computer-Aided Design (FMCAD)*, 2020.
 <br>
 [C28] V. Klimis, G. Parisis and B. Reus, "Towards Model Checking Real-World Software-Defined Networks", In Proceedings of the *32nd International Conference on Computer-Aided Verification (CAV)*, 2020.
