@@ -9,7 +9,9 @@ nav: true
 
 
 #### Journal papers
-[J13] M. Alasmar, R. Clegg, N. Zakhleniuk and G. Parisis, "Internet Traffic Volumes Are Not Gaussian -- They Are Log-Normal: An 18-Year Longitudinal Study With Implications for Modelling and Prediction", in *IEEE/ACM Transactions on Networking*, 2021 (accepted).
+[J14] M. Alasmar, G. Parisis and J. Crowcroft, “SCDP: Systematic Rateless Coding for Efficient Data Transport in Data Centres”, in *IEEE/ACM Transactions on Networking*, 2021 (accepted).
+<br>
+[J13] M. Alasmar, R. Clegg, N. Zakhleniuk and G. Parisis, "Internet Traffic Volumes Are Not Gaussian -- They Are Log-Normal: An 18-Year Longitudinal Study With Implications for Modelling and Prediction", in *IEEE/ACM Transactions on Networking, vol. 29, no. 3, pp. 1266-1279*, 2021, doi: 10.1109/TNET.2021.3059542.
 <br>
 [J12] A. Messager, G. Parisis, I. Z. Kiss, R. Harper, P. Tee and L. Berthouze, "Inferring Functional Connectivity from Time-series of Events in Large Scale Network Deployments", in *IEEE Transactions on Network and Service Management, vol. 16, no. 3*, 2019.
 <br>
