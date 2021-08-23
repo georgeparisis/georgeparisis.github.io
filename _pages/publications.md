@@ -36,6 +36,8 @@ nav: true
 [J1] A. Kousaridas, G. Parisis, and T. Apostolopoulos, "An open financial services architecture based on the use of intelligent mobile devices", in *Electronic Commerce Research Applications, 7 (2)*, 2008.
 
 #### Conference and Workshop Papers
+[C31] A. Valentine and G. Parisis, "Developing and experimenting with LEO satellite constellations in OMNeT++", In Proceedings of the *8th OMNeT++ Community Summit*, 2021.
+<br>
 [C30] A. Ibraheem, Z. Sheng, G. Parisis, D. Tian, "Neural Network based Partial Tomography for In-Vehicle Network Monitoring", In Proceedings of *IEEE ICC 2021 Workshop on Time-sensitive and Deterministic Networking*, 2021.
 <br>
 [C29] V. Klimis, G. Parisis and B. Reus, "Model Checking Software-Defined Networks with Flow Entries that Time Out", In Proceedings of *Formal Methods in Computer-Aided Design (FMCAD)*, 2020.
