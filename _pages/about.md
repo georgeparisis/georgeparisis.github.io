@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Reader in Computer Science. Director of <a href="https://packets-lab.github.io/" target="_blank">packets</a> research lab.
+description: Reader in Computer Science. Director of Research and Knowledge Exchange, School of Engineering and Informatics. Director of <a href="https://packets-lab.github.io/" target="_blank">packets</a> research lab.
 
 profile:
   align: right
