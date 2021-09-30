@@ -10,7 +10,7 @@ nav: true
 
 **2021: *RaptorQ-based data transport for low earth orbit Satellite Constellations*, funded by GEANT Innovation Programme (€30,000).**
 <br>
-Very large constellations of Low Earth Orbit (LEO) satellites are currently being deployed; private companies (e.g., SpaceX, OneWeb) lead the race and billion-dollar investments are already in place. This will give rise to unprecedented wide-area network deployments that will provide 100% geographic coverage and exhibit a unique combination of characteristics. This project will be a first step towards rethinking data transport over LEO satellite networks.
+Very large constellations of Low Earth Orbit (LEO) satellites are currently being deployed; private companies (e.g., SpaceX, OneWeb) lead the race and billion-dollar investments are already in place. This will give rise to unprecedented wide-area network deployments that will provide 100% geographic coverage and exhibit a unique combination of characteristics. This project will be a first step towards rethinking data transport for LEO satellite networks.
 
 **2020 - 2024: *Effective and efficient operation, management and monitoring of large-scale networks*, funded by Moogsoft and the School of Engineering and Informatics (£264,000).**
 <br>
