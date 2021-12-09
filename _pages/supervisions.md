@@ -10,6 +10,8 @@ nav: true
 2018 - 2021: [Shahriar Etemadi Tajbakhsh](https://uk.linkedin.com/in/shahriar-etemadi-tajbakhsh-471ba5b0){:target="_blank"}, Efficient and scalable computation of metrics for logical and physical IT infrastructure networks.
 
 #### PhD students
+2022 - present: [Aiden Valentine](https://profiles.sussex.ac.uk/p433938-aiden-valentine){:target="_blank"}, Data-transport for LEO satellite constellations.
+<br>
 2021 - present: [Giles Winchester](https://uk.linkedin.com/in/giles-winchester-912625189){:target="_blank"}, Next-generation network management (with Prof Berthouze).
 <br>
 2019 - present: [Amani Ibraheem](){:target="_blank"}, Machine-learned network tomography (with Dr Sheng).
