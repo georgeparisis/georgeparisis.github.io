@@ -38,7 +38,7 @@ nav: true
 [J1] A. Kousaridas, G. Parisis, and T. Apostolopoulos, "An open financial services architecture based on the use of intelligent mobile devices", in *Electronic Commerce Research Applications, 7 (2)*, 2008.
 
 #### Conference and Workshop Papers
-[C32] G. Winchester, G. Parisis, and L. Berthouze, “Exploiting Functional Connectivity Inference for Efficient Root Cause Analysis”, in Proc. of IEEE/IFIP NOMS, 2022.
+[C32] G. Winchester, G. Parisis, and L. Berthouze, “Exploiting Functional Connectivity Inference for Efficient Root Cause Analysis”, in Proceedings of *IEEE/IFIP NOMS*, 2022.
 <br>
 [C31] A. Valentine and G. Parisis, "Developing and experimenting with LEO satellite constellations in OMNeT++", In Proceedings of the *8th OMNeT++ Community Summit*, 2021.
 <br>
