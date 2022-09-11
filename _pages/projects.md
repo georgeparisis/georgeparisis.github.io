@@ -8,6 +8,14 @@ nav: true
 
 ##### Research projects as PI or Co-PI
 
+**January 2023 -  : *Rethinking large-scale network management through the lens of neuroscience*, funded by EPSRC (£265,000).**
+<br>
+Much of our lives today relies on the continuous and reliable provision of ICT infrastructure. With networks, services, traffic workloads and user needs ever-growing in size and complexity, a new paradigm in network management and control is required. This project is in collaboration with Prof Berthouze (as PI) and aims to transform the way ICT networks are being conceptualised for management, by developing a purely data-driven characterisation of emerging dependencies between ICT components, inspired by recent neuroscientific paradigms used to study the brain.
+
+**June 2022 -  : *Developing an industry 4.0-ready system for real-time management and monitoring of motor controllers*, funded by Innovate UK and Sprint Electric (£289,000).**
+<br>
+In this project we develop software that will enhance the motor controllers manufactured by SEL by adding Industry 4.0 and cloud-based services, enabling the following features; a secure web interface, embedded in the product, that enables service personnel to configure and commission a motor controller, remotely, through a standard web browser and, on-site, through a mobile handheld device; a web service to connect to single or multiple devices over the Internet, enabling remote diagnostics and fault-finding; a telemetry service for streaming operating data from the motor controller to the cloud for on-line and off-line viewing, aggregation and storage.
+
 **2021: *RaptorQ-based data transport for low earth orbit Satellite Constellations*, funded by GEANT Innovation Programme (€30,000).**
 <br>
 Very large constellations of Low Earth Orbit (LEO) satellites are currently being deployed; private companies (e.g., SpaceX, OneWeb) lead the race and billion-dollar investments are already in place. This will give rise to unprecedented wide-area network deployments that will provide 100% geographic coverage and exhibit a unique combination of characteristics. This project will be a first step towards rethinking data transport for LEO satellite networks.

@@ -9,7 +9,7 @@ nav: true
 
 
 #### Journal papers
-[J14] M. Alasmar, G. Parisis and J. Crowcroft, “SCDP: Systematic Rateless Coding for Efficient Data Transport in Data Centres”, in *IEEE/ACM Transactions on Networking*, 2021 (accepted).
+[J14] M. Alasmar, G. Parisis and J. Crowcroft, "SCDP: Systematic Rateless Coding for Efficient Data Transport in Data Centers," in *IEEE/ACM Transactions on Networking, vol. 29, no. 6, pp. 2723-2736*, doi: 10.1109/TNET.2021.3098386.
 <br>
 [J13] M. Alasmar, R. Clegg, N. Zakhleniuk and G. Parisis, "Internet Traffic Volumes Are Not Gaussian -- They Are Log-Normal: An 18-Year Longitudinal Study With Implications for Modelling and Prediction", in *IEEE/ACM Transactions on Networking, vol. 29, no. 3, pp. 1266-1279*, 2021, doi: 10.1109/TNET.2021.3059542.
 <br>
@@ -38,6 +38,8 @@ nav: true
 [J1] A. Kousaridas, G. Parisis, and T. Apostolopoulos, "An open financial services architecture based on the use of intelligent mobile devices", in *Electronic Commerce Research Applications, 7 (2)*, 2008.
 
 #### Conference and Workshop Papers
+[C33] G. Winchester, G. Parisis, and L. Berthouze, Accelerating Causal Inference Based RCA Using Prior Knowledge from Functional Connectivity Inference, in Proc. of CNSM 2022.
+<br>
 [C32] G. Winchester, G. Parisis, and L. Berthouze, “Exploiting Functional Connectivity Inference for Efficient Root Cause Analysis”, in Proceedings of *IEEE/IFIP NOMS*, 2022.
 <br>
 [C31] A. Valentine and G. Parisis, "Developing and experimenting with LEO satellite constellations in OMNeT++", In Proceedings of the *8th OMNeT++ Community Summit*, 2021.
