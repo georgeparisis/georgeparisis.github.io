@@ -6,7 +6,7 @@ description: I am passionate about training and mentoring early career researche
 nav: true
 ---
 
-#### Associates
+#### associates
 2022 - : Nick Toomey, Developing an industry 4.0-ready system for real-time management and monitoring of motor controllers.
 <br>
 2018 - 2021: [Shahriar Etemadi Tajbakhsh](https://uk.linkedin.com/in/shahriar-etemadi-tajbakhsh-471ba5b0){:target="_blank"}, Efficient and scalable computation of metrics for logical and physical IT infrastructure networks.
