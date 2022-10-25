@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Reader in Computer Science. <br> Director of Research and Knowledge Exchange, School of Engineering and Informatics. <br> Director of <a href="https://packets-lab.github.io/" target="_blank">packets</a> research lab.
+description: Professor of Computer Networks. <br> Director of Research and Knowledge Exchange, School of Engineering and Informatics. <br> <a href="https://packets-lab.github.io/" target="_blank">packets</a> lab lead.
 
 profile:
   align: right
@@ -19,7 +19,7 @@ social: true
 
 I was born in Athens and grew up in a small town called [Nafplio](https://en.wikipedia.org/wiki/Nafplio){:target="_blank"}. I received my Ph.D from the Department of Informatics, Athens University of Economics and Business, in June 2009. Before joining Sussex as a Lecturer in 2013, I was a Research Associate at the Computer Laboratory, University of Cambridge.
 
-I am currently a Reader in Computer Science at the School of Engineering and Informatics, University of Sussex. My University profile is [here](https://profiles.sussex.ac.uk/p334868-george-parisis){:target="_blank"}.
+I am a Professor of Computer Networks at the School of Engineering and Informatics, University of Sussex. My University profile is [here](https://profiles.sussex.ac.uk/p334868-george-parisis){:target="_blank"}.
 
 My research is in the following research areas:
 
