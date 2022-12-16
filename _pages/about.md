@@ -30,3 +30,4 @@ My research is in the following research areas:
 * information-centric networks
 
 I am always interested in supervising talented students who want to do a PhD at the University of Sussex ([Brighton](https://www.visitbrighton.com/){:target="_blank"} is also an excellent place to live). We sometimes offer scholarships to exceptional students. Feel free to send me unofficial enquiries about PhD topics but you need to officially apply [here](https://www.sussex.ac.uk/study/apply){:target="_blank"}.
+
