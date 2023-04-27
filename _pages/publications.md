@@ -38,6 +38,10 @@ nav: true
 [J1] A. Kousaridas, G. Parisis, and T. Apostolopoulos, "An open financial services architecture based on the use of intelligent mobile devices", in *Electronic Commerce Research Applications, 7 (2)*, 2008.
 
 #### Conference and Workshop Papers
+[C36] A. Valentine and G. Parisis, Data transport for the orbiting internet, in Proc. of *INFOCOM (poster session)*, 2023.
+<br>
+[C35] G. Winchester, G. Parisis, and L. Berthouze, On the temporal behaviour of a large-scale microservice architecture, in Proc. of *AnNet*, 2023.
+<br>
 [C34] G. Winchester, G. Parisis, and L. Berthouze, Accelerating Causal Inference Based RCA Using Prior Knowledge from Functional Connectivity Inference, in Proc. of *CNSM*, 2022.
 <br>
 [C33] A. Ibraheem, Z. Sheng, G. Parisis, D. Tian, In-Vehicle Network Delay Tomography, in Proc. of *IEEE GLOBECOM*, 2022.
