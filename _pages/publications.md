@@ -38,11 +38,15 @@ nav: true
 [J1] A. Kousaridas, G. Parisis, and T. Apostolopoulos, "An open financial services architecture based on the use of intelligent mobile devices", in *Electronic Commerce Research Applications, 7 (2)*, 2008.
 
 #### Conference and Workshop Papers
-[C36] A. Valentine and G. Parisis, Data transport for the orbiting internet, in Proc. of *IEEE INFOCOM (poster session)*, 2023.
+[C38] A. Valentine and G. Parisis, Data transport for the orbiting internet, in Proc. of *IEEE INFOCOM (poster session)*, 2023.
 <br>
-[C35] G. Winchester, G. Parisis, and L. Berthouze, On the temporal behaviour of a large-scale microservice architecture, in Proc. of *IEEE/IFIP AnNet*, 2023.
+[C37] G. Winchester, G. Parisis, and L. Berthouze, On the temporal behaviour of a large-scale microservice architecture, in Proc. of *IEEE/IFIP AnNet*, 2023.
 <br>
-[C34] G. Winchester, G. Parisis, and L. Berthouze, Accelerating Causal Inference Based RCA Using Prior Knowledge from Functional Connectivity Inference, in Proc. of *CNSM*, 2022.
+[C36] Ibraheem, Z. Sheng, G. Parisis, D. Tian, Network tomography-based anomaly detection and localisation in centralised in-vehicle network, in Proc. of *IEEE COINS*, 2023,
+<br>
+[C35] G. Winchester, G. Parisis, and L. Berthouze, Accelerating Causal Inference Based RCA Using Prior Knowledge from Functional Connectivity Inference, in Proc. of *CNSM*, 2022.
+<br>
+[C34] A. Ibraheem, Z. Sheng, G. Parisis, j. Zhou, D. Tian, Internal network monitoring with DNN and network tomography for in-vehicle networks, in Proc. of *IEEE ICUS*, 2022.
 <br>
 [C33] A. Ibraheem, Z. Sheng, G. Parisis, D. Tian, In-Vehicle Network Delay Tomography, in Proc. of *IEEE GLOBECOM*, 2022.
 <br>
