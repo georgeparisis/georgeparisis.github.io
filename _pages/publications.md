@@ -46,7 +46,7 @@ nav: true
 <br>
 [C35] G. Winchester, G. Parisis, and L. Berthouze, Accelerating Causal Inference Based RCA Using Prior Knowledge from Functional Connectivity Inference, in Proc. of *CNSM*, 2022.
 <br>
-[C34] A. Ibraheem, Z. Sheng, G. Parisis, j. Zhou, D. Tian, Internal network monitoring with DNN and network tomography for in-vehicle networks, in Proc. of *IEEE ICUS*, 2022.
+[C34] A. Ibraheem, Z. Sheng, G. Parisis, J. Zhou, D. Tian, Internal network monitoring with DNN and network tomography for in-vehicle networks, in Proc. of *IEEE ICUS*, 2022.
 <br>
 [C33] A. Ibraheem, Z. Sheng, G. Parisis, D. Tian, In-Vehicle Network Delay Tomography, in Proc. of *IEEE GLOBECOM*, 2022.
 <br>
