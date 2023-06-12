@@ -8,7 +8,11 @@ nav: true
 
 ##### Research projects as PI or Co-PI
 
-**January 2023 -  : *Rethinking large-scale network management through the lens of neuroscience*, funded by EPSRC (£265,000).**
+**May 2023 -  : *Fair-RL-CC: Towards Fair Congestion Control with Reinforcement Learning*, funded by GÉANT (€30,000).**
+<br>
+Reinforcement Learning-based Congestion Control is still in its infancy, and substantial research is required to yield deployable solutions. Here, we identify two key limitations that we aim to tackle in this project; (1) existing approaches cannot guarantee fairness amongst competing network flows; the stability of said CC policies with flow churn is problematic and performance is acceptable only in fixed and static network scenarios that cannot deviate much from the learning environment; (2) crucially, the research community lacks the tools to train and evaluate RL-based CC policies in a reproducible way, at scale. In this project, we develop RL-based CC approaches that provide fairness amongst competing network flows, without sacrificing on performance or overall network utilisation. We also develop a learning playground with simulation models for existing RL-based CC and compare them with approaches developed in this project.
+
+**April 2023 -  : *Rethinking large-scale network management through the lens of neuroscience*, funded by EPSRC (£265,000).**
 <br>
 Much of our lives today relies on the continuous and reliable provision of ICT infrastructure. With networks, services, traffic workloads and user needs ever-growing in size and complexity, a new paradigm in network management and control is required. This project is in collaboration with Prof Berthouze (as PI) and aims to transform the way ICT networks are being conceptualised for management, by developing a purely data-driven characterisation of emerging dependencies between ICT components, inspired by recent neuroscientific paradigms used to study the brain.
 
@@ -16,7 +20,7 @@ Much of our lives today relies on the continuous and reliable provision of ICT i
 <br>
 In this project we develop software that will enhance the motor controllers manufactured by SEL by adding Industry 4.0 and cloud-based services, enabling the following features; a secure web interface, embedded in the product, that enables service personnel to configure and commission a motor controller, remotely, through a standard web browser and, on-site, through a mobile handheld device; a web service to connect to single or multiple devices over the Internet, enabling remote diagnostics and fault-finding; a telemetry service for streaming operating data from the motor controller to the cloud for on-line and off-line viewing, aggregation and storage.
 
-**2021: *RaptorQ-based data transport for low earth orbit Satellite Constellations*, funded by GEANT Innovation Programme (€30,000).**
+**2021: *RaptorQ-based data transport for low earth orbit Satellite Constellations*, funded by GÉANT Innovation Programme (€30,000).**
 <br>
 Very large constellations of Low Earth Orbit (LEO) satellites are currently being deployed; private companies (e.g., SpaceX, OneWeb) lead the race and billion-dollar investments are already in place. This will give rise to unprecedented wide-area network deployments that will provide 100% geographic coverage and exhibit a unique combination of characteristics. This project will be a first step towards rethinking data transport for LEO satellite networks.
 
