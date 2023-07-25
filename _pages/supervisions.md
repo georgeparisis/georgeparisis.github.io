@@ -24,7 +24,7 @@ nav: true
 <br>
 2016 - 2020: [Vassilis Klimis](https://uk.linkedin.com/in/vasiliosklimis){:target="_blank"}, Verifying software defined networks (with Dr Bernhard Reus) - now with QMUL.
 <br>
-2015 - 2019: [Mohammed Alasmar](https://uk.linkedin.com/in/mohammed-alasmar-854497170){:target="_blank"}, RaptorQ coding-based data transport for data centres - now with MAVIS Broadcast.
+2015 - 2019: [Mohammed Alasmar](https://uk.linkedin.com/in/mohammed-alasmar-854497170){:target="_blank"}, RaptorQ coding-based data transport - now with MAVIS Broadcast.
 <br>
 2014 - 2019: Walla Al-Eidarous, Effective and efficient routing in dense opportunistic networks.
 <br>
