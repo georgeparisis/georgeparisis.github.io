@@ -38,7 +38,7 @@ nav: true
 [J1] A. Kousaridas, G. Parisis, and T. Apostolopoulos, "An open financial services architecture based on the use of intelligent mobile devices", in *Electronic Commerce Research Applications, 7 (2)*, 2008.
 
 #### Conference and Workshop Papers
-[C39] L. Giacomoni and G. Parisis, Reinforcement Learning-based Congestion Control: A Systematic Evaluation of Fairness, Efficiency and Responsiveness, in Proc. of *IEEE INFOCOM , 2024 (accepted).
+[C39] L. Giacomoni and G. Parisis, Reinforcement Learning-based Congestion Control: A Systematic Evaluation of Fairness, Efficiency and Responsiveness, in Proc. of *IEEE INFOCOM* , 2024 (accepted).
 <br>
 [C38] A. Valentine and G. Parisis, Data transport for the orbiting internet, in Proc. of *IEEE INFOCOM (poster session)*, 2023.
 <br>
