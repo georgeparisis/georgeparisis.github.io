@@ -9,7 +9,9 @@ nav: true
 
 
 #### Journal papers
-[J14] M. Alasmar, G. Parisis and J. Crowcroft, "SCDP: Systematic Rateless Coding for Efficient Data Transport in Data Centers," in *IEEE/ACM Transactions on Networking, vol. 29, no. 6, pp. 2723-2736*, doi: 10.1109/TNET.2021.3098386.
+[J15] L. Giacomoni and G. Parisis, "RayNet: A Simulation Platform for Developing Reinforcement Learning-Driven Network Protocols", in *ACM Transactions on Modeling and Computer Simulation*, 2024 (accepted).
+<br>
+[J14] M. Alasmar, G. Parisis and J. Crowcroft, "SCDP: Systematic Rateless Coding for Efficient Data Transport in Data Centers", in *IEEE/ACM Transactions on Networking, vol. 29, no. 6, pp. 2723-2736*, doi: 10.1109/TNET.2021.3098386.
 <br>
 [J13] M. Alasmar, R. Clegg, N. Zakhleniuk and G. Parisis, "Internet Traffic Volumes Are Not Gaussian -- They Are Log-Normal: An 18-Year Longitudinal Study With Implications for Modelling and Prediction", in *IEEE/ACM Transactions on Networking, vol. 29, no. 3, pp. 1266-1279*, 2021, doi: 10.1109/TNET.2021.3059542.
 <br>
