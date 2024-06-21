@@ -18,11 +18,11 @@ nav: true
 <br>
 2021 - present: [Giles Winchester](https://uk.linkedin.com/in/giles-winchester-912625189){:target="_blank"}, Next-generation network management (with Prof Berthouze).
 <br>
-2019 - present: [Amani Ibraheem](){:target="_blank"}, Machine-learned network tomography (with Dr Sheng).
+2019 - 2024: [Amani Ibraheem](){:target="_blank"}, Machine-learned network tomography (with Dr Sheng).
 <br>
-2016 - present: [Luca Giacomoni](https://uk.linkedin.com/in/luca-giacomoni-343b8582){:target="_blank"}, Machine-learned congestion control.
+2016 - 2024: [Luca Giacomoni](https://uk.linkedin.com/in/luca-giacomoni-343b8582){:target="_blank"}, Machine-learned congestion control.
 <br>
-2016 - 2020: [Vassilis Klimis](https://uk.linkedin.com/in/vasiliosklimis){:target="_blank"}, Verifying software defined networks (with Dr Bernhard Reus) (now with QMUL).
+2016 - 2020: [Vassilis Klimis](https://uk.linkedin.com/in/vasiliosklimis){:target="_blank"}, Verifying software defined networks (with Prof Reus) (now with QMUL).
 <br>
 2015 - 2019: [Mohammed Alasmar](https://uk.linkedin.com/in/mohammed-alasmar-854497170){:target="_blank"}, RaptorQ coding-based data transport (now with MAVIS Broadcast).
 <br>
