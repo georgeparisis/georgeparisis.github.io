@@ -12,7 +12,7 @@ nav: true
 <br>
 2013 - present: Computer Networks ([G5115](http://www.sussex.ac.uk/ei/internal/coursesandmodules/informatics/modules/2020/81736){:target="_blank"})
 <br>
-2013 - present: Topics in Computer Science ([948G5](https://www.sussex.ac.uk/study/modules/undergraduate/2020/948G5-topics-in-computer-science){:target="_blank"})
+2013 - 2018: Topics in Computer Science ([948G5](https://www.sussex.ac.uk/study/modules/undergraduate/2020/948G5-topics-in-computer-science){:target="_blank"})
 <br>
 2013 - 2020: Web Applications and Services ([G6060](https://www.sussex.ac.uk/modules/2019/G6060-web-applications-and-services){:target="_blank"}, [944G5](https://www.sussex.ac.uk/study/modules/undergraduate/2019/944G5-web-applications-and-services){:target="_blank"})
 
