@@ -9,7 +9,7 @@ nav: true
 
 
 #### Journal papers
-[J15] L. Giacomoni and G. Parisis, "RayNet: A Simulation Platform for Developing Reinforcement Learning-Driven Network Protocols", in *ACM Transactions on Modeling and Computer Simulation*, 2024 (accepted).
+[J15] L. Giacomoni and G. Parisis, "RayNet: A Simulation Platform for Developing Reinforcement Learning-Driven Network Protocols", in *ACM Transactions on Modeling and Computer Simulation*, Volume 34, Issue 3, Article No.: 15, pp 1–25, https://doi.org/10.1145/3653975.
 <br>
 [J14] M. Alasmar, G. Parisis and J. Crowcroft, "SCDP: Systematic Rateless Coding for Efficient Data Transport in Data Centers", in *IEEE/ACM Transactions on Networking, vol. 29, no. 6, pp. 2723-2736*, doi: 10.1109/TNET.2021.3098386.
 <br>
@@ -40,9 +40,9 @@ nav: true
 [J1] A. Kousaridas, G. Parisis, and T. Apostolopoulos, "An open financial services architecture based on the use of intelligent mobile devices", in *Electronic Commerce Research Applications, 7 (2)*, 2008.
 
 #### Conference and Workshop Papers
-[C40] L. Giacomoni and G. Parisis, Reinforcement Learning-based Congestion Control: A Systematic Evaluation of Fairness, Efficiency and Responsiveness, in Proc. of *IEEE INFOCOM* , 2024 (accepted).
+[C40] L. Giacomoni and G. Parisis, Reinforcement Learning-based Congestion Control: A Systematic Evaluation of Fairness, Efficiency and Responsiveness, in Proc. of *IEEE INFOCOM* , 2024.
 <br>
-[C39] A. Ibraheem, Z. Sheng, and G. Parisis, Anomaly Detection and Classification for SDN-enabled In-Vehicle Network using Network Tomography-based Deep Learning, in Proc. of *IEEE WCNC* , 2024 (accepted).
+[C39] A. Ibraheem, Z. Sheng, and G. Parisis, Anomaly Detection and Classification for SDN-enabled In-Vehicle Network using Network Tomography-based Deep Learning, in Proc. of *IEEE WCNC* , 2024.
 <br>
 [C38] A. Valentine and G. Parisis, Data transport for the orbiting internet, in Proc. of *IEEE INFOCOM (poster session)*, 2023.
 <br>
