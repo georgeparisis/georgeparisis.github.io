@@ -9,6 +9,7 @@ nav: true
 
 
 #### Journal papers
+[J16] A. Ibraheem, Z. Sheng, G Parisis, "On the optimal design of fully identifiable next-generation in-vehicle networks", in *Computer Communications*, 2024 (to appear)
 [J15] L. Giacomoni and G. Parisis, "RayNet: A Simulation Platform for Developing Reinforcement Learning-Driven Network Protocols", in *ACM Transactions on Modeling and Computer Simulation*, Volume 34, Issue 3, pp 1–25, doi: 10.1145/3653975.
 <br>
 [J14] M. Alasmar, G. Parisis and J. Crowcroft, "SCDP: Systematic Rateless Coding for Efficient Data Transport in Data Centers", in *IEEE/ACM Transactions on Networking, vol. 29, no. 6, pp. 2723-2736*, doi: 10.1109/TNET.2021.3098386.
