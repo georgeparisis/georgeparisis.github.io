@@ -9,7 +9,7 @@ nav: true
 #### associates
 2024 - : Giles Winchester, Rethinking large-scale network management through the lens of neuroscience.
 <br>
-2022 - 2024: Nick Toomey, Developing an industry 4.0-ready system for real-time management and monitoring of motor controllers.
+2022 - 2024: Nick Toomey, Developing an industry 4.0-ready system for real-time management and monitoring of motor controllers (now with Sprint Electric).
 <br>
 2023 - 2024: Russel Waller, Rethinking the management of large-scale networks through the lens of neuroscience.
 <br>
