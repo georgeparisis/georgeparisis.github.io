@@ -7,13 +7,19 @@ nav: true
 ---
 
 #### associates
-2022 -     : Nick Toomey, Developing an industry 4.0-ready system for real-time management and monitoring of motor controllers.
+2024 - : Giles Winchester, Rethinking large-scale network management through the lens of neuroscience.
+<br>
+2022 - 2024: Nick Toomey, Developing an industry 4.0-ready system for real-time management and monitoring of motor controllers.
 <br>
 2023 - 2024: Russel Waller, Rethinking the management of large-scale networks through the lens of neuroscience.
 <br>
 2018 - 2021: [Shahriar Etemadi Tajbakhsh](https://uk.linkedin.com/in/shahriar-etemadi-tajbakhsh-471ba5b0){:target="_blank"}, Efficient and scalable computation of metrics for logical and physical IT infrastructure networks (now with Oxford University).
 
 #### PhD students
+2024 - present: Mihai Mazilu, Computer-generated congestion control algorithms.
+<br>
+2024 - present: Ashfaq Salehin,  Next-generation network management (with Prof Berthouze).
+<br>
 2022 - present: [Aiden Valentine](https://profiles.sussex.ac.uk/p433938-aiden-valentine){:target="_blank"}, Data transport protocols for LEO satellite constellations.
 <br>
 2021 - present: [Giles Winchester](https://uk.linkedin.com/in/giles-winchester-912625189){:target="_blank"}, Next-generation network management (with Prof Berthouze).
