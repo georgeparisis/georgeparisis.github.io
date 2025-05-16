@@ -42,6 +42,8 @@ nav: true
 [J1] A. Kousaridas, G. Parisis, and T. Apostolopoulos, "An open financial services architecture based on the use of intelligent mobile devices", in *Electronic Commerce Research Applications, 7 (2)*, 2008.
 
 #### Conference and Workshop Papers
+[C41] G. Winchester, G. Parisis, and L. Berthouze, Time-Varying Functional Connectivity for Scalable Observability in Microservice Architectures, in Proc. of *IEEE ICDCS* (short paper), 2025.
+<br>
 [C40] L. Giacomoni and G. Parisis, Reinforcement Learning-based Congestion Control: A Systematic Evaluation of Fairness, Efficiency and Responsiveness, in Proc. of *IEEE INFOCOM* , 2024.
 <br>
 [C39] A. Ibraheem, Z. Sheng, and G. Parisis, Anomaly Detection and Classification for SDN-enabled In-Vehicle Network using Network Tomography-based Deep Learning, in Proc. of *IEEE WCNC* , 2024.
