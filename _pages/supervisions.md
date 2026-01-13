@@ -7,7 +7,7 @@ nav: true
 ---
 
 #### associates
-2024 - : Giles Winchester, Rethinking large-scale network management through the lens of neuroscience.
+2024 - 2025: Giles Winchester, Rethinking large-scale network management through the lens of neuroscience.
 <br>
 2022 - 2024: Nick Toomey, Developing an industry 4.0-ready system for real-time management and monitoring of motor controllers (now with Sprint Electric).
 <br>
@@ -39,3 +39,4 @@ nav: true
 2013 - 2016: [Aydin Rajaei](http://www.sussex.ac.uk/profiles/285739){:target="_blank"}, Efficient geocasting in opportunistic networks.
 <br>
 2013 - 2015: [Morteza Kheirkhah](https://uk.linkedin.com/in/mkheirkhah){:target="_blank"}, Multi-path data transport in data centres (now with Samsung Research).
+
