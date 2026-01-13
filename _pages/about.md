@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Professor of Computer Networks. <br> Head of Informatics, School of Engineering and Informatics. <br> <a href="https://packets-lab.github.io/" target="_blank">packets</a> lab lead.
+description: Professor of Computer Networks. <br> Head of School of Engineering and Informatics. <br> <a href="https://packets-lab.github.io/" target="_blank">packets</a> lab lead.
 
 profile:
   align: right
