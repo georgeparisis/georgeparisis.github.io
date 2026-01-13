@@ -22,7 +22,7 @@ nav: true
 <br>
 2022 - present: [Aiden Valentine](https://profiles.sussex.ac.uk/p433938-aiden-valentine){:target="_blank"}, Data transport protocols for LEO satellite constellations.
 <br>
-2021 - present: [Giles Winchester](https://uk.linkedin.com/in/giles-winchester-912625189){:target="_blank"}, Next-generation network management (with Prof Berthouze).
+2021 - 2025: [Giles Winchester](https://uk.linkedin.com/in/giles-winchester-912625189){:target="_blank"}, Next-generation network management (with Prof Berthouze).
 <br>
 2019 - 2024: [Amani Ibraheem](){:target="_blank"}, Machine-learned network tomography (with Dr Sheng).
 <br>
@@ -39,4 +39,5 @@ nav: true
 2013 - 2016: [Aydin Rajaei](http://www.sussex.ac.uk/profiles/285739){:target="_blank"}, Efficient geocasting in opportunistic networks.
 <br>
 2013 - 2015: [Morteza Kheirkhah](https://uk.linkedin.com/in/mkheirkhah){:target="_blank"}, Multi-path data transport in data centres (now with Samsung Research).
+
 
