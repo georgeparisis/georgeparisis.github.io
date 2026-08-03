@@ -42,6 +42,8 @@ nav: true
 [J1] A. Kousaridas, G. Parisis, and T. Apostolopoulos, "An open financial services architecture based on the use of intelligent mobile devices", in *Electronic Commerce Research Applications, 7 (2)*, 2008.
 
 #### Conference and Workshop Papers
+[C44] A. Valentine, M. Mazilu, J. Knowles, I. Wakeman and George Parisis, Emulation vs Simulation: A Case Study from Congestion Control Algorithms in Low Earth Orbit Satellite Networks, in Proc. of *MASCOSTS*, 2026.
+<br>
 [C43] A. Salehin, G. Parisis, and L. Berthouze, Tempest: A GPU-Accelerated Engine for Streaming Temporal Random Walks, in Proc. of *ICPP*, 2026.
 <br>
 [C42] M. Mazilu, A. Valentine, I. Wakeman, G. Parisis, An Experimental Study of Congestion Control in LEO Satellite Networks, in Proc. of *IFIP Networking*, 2026.
